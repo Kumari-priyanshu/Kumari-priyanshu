@@ -24,11 +24,21 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kumari-priyanshu&show_icons=true&theme=tokyonight&hide_border=true" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumari-priyanshu&layout=compact&theme=tokyonight&hide_border=true" height="170"> </p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumari-priyanshu&theme=tokyonight" />
-// some constant truths about me 💭
+<div align="center">
+
+<h4>🪄 Some constant truths about me</h4>
+
+<pre>
+<code>
 const std::string soul = "calm";
 const std::string passion = "code + writing";
 const std::string curiosity = "DSA & open-source";
 const std::string comfort = "evening walks + toffee 🍬";
+</code>
+</pre>
+
+</div>
+
 
 <p align="center"> <img src="https://img.shields.io/badge/🌿-Nature%20Lover-brightgreen" /> <img src="https://img.shields.io/badge/🧘‍♀️-Calm%20Thinker-blue" /> <img src="https://img.shields.io/badge/💻-Code%20%2B%20Write-purple" /> <img src="https://img.shields.io/badge/✨-Dream%20Builder-yellow" /> <img src="https://img.shields.io/badge/🍦-Debug%20Therapy-pink" /> </p>
 
